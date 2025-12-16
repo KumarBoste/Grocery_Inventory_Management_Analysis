@@ -1,0 +1,2 @@
+# Grocery_Inventory_Management_Analysis
+Power BI
