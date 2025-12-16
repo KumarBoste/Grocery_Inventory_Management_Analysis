@@ -1,2 +1,2 @@
-# Grocery_Inventory_Management_Analysis
+# Grocery Inventory Management Analysis
 Power BI
