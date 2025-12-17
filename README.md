@@ -25,6 +25,9 @@ Grocery retailers often face challenges such as:
 
 This project addresses these issues by providing real-time, visual, and actionable insights through an interactive Power BI dashboard.
 
+## DASHBOARD
+![DAshboard](https://github.com/KumarBoste/Grocery_Inventory_Management_Analysis/blob/main/Power%20BI%20Dashboard/Overview.png)
+
 ## Key KPIs
 - Total Stock Quantity: 21,229
 - Total Stock Value: 126.31K
